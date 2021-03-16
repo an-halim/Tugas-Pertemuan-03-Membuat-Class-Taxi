@@ -1,0 +1,7 @@
+D:\3344\smt2\pemrograman\pertemuan3\ClassAndObject\Taxi\bin\Debug\Taxi.exe.config
+D:\3344\smt2\pemrograman\pertemuan3\ClassAndObject\Taxi\bin\Debug\Taxi.exe
+D:\3344\smt2\pemrograman\pertemuan3\ClassAndObject\Taxi\bin\Debug\Taxi.pdb
+D:\3344\smt2\pemrograman\pertemuan3\ClassAndObject\Taxi\obj\Debug\Taxi.csprojAssemblyReference.cache
+D:\3344\smt2\pemrograman\pertemuan3\ClassAndObject\Taxi\obj\Debug\Taxi.csproj.CoreCompileInputs.cache
+D:\3344\smt2\pemrograman\pertemuan3\ClassAndObject\Taxi\obj\Debug\Taxi.exe
+D:\3344\smt2\pemrograman\pertemuan3\ClassAndObject\Taxi\obj\Debug\Taxi.pdb
